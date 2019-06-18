@@ -34,6 +34,8 @@
 
     <string name="call_log_stats_title">Statistics</string>
 
+    <string name="other_settings_label">Other settings</string>
+
     <!-- Dialer postcall -->
     <string name="enable_post_call_title">Post call snackbar</string>
     <string name="enable_post_call_summary">Enable post call notifications at the bottom of screen</string>
